@@ -40,7 +40,7 @@
 
 ## 🌍 Connectons-nous
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salifou-diallo-3117702b2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://salifoudiallo.github.io/Portfolio-salifoudiallo/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/930592722102915102)
 
 ---
 

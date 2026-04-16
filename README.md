@@ -26,18 +26,17 @@
 
 ## 🛠️ Outils et cadres de travail
 
-**Développement web :**
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 **IA et apprentissage automatique :**
 
-![Scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Supervised Learning](https://img.shields.io/badge/SUPERVISED_LEARNING-FFD700?style=for-the-badge&logoColor=black)
 ![Unsupervised Learning](https://img.shields.io/badge/UNSUPERVISED_LEARNING-FFD700?style=for-the-badge&logoColor=black)
@@ -54,7 +53,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure Kubernetes Service](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure Kubernetes Service](https://img.shields.io/badge/AZURE_KUBERNETES_SERVICE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Science des données et visualisation :**
 

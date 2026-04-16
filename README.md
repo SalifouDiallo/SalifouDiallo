@@ -2,9 +2,9 @@
 
 ## 👋 À propos de moi
 
-🎓 Je suis étudiant finissant en informatique à l'**UQAC** (Université du Québec à Chicoutimi), passionné par le **développement web** et le **DevOps**.
-🚀 J'aime créer des projets concrets, apprendre les technologies modernes et relever des défis techniques.
-💡 Je perfectionne constamment mes compétences grâce à la pratique et aux déploiements réels..
+🎓 Je suis étudiant finissant en informatique à l'**UQAC** (Université du Québec à Chicoutimi), passionné par le **développement web** et le **DevOps**.  
+🚀 J'aime créer des projets concrets, apprendre les technologies modernes et relever des défis techniques.  
+💡 Je perfectionne constamment mes compétences grâce à la pratique et à des déploiements réels.
 
 ---
 
